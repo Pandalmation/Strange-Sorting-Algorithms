@@ -1,5 +1,5 @@
 # Strange-Sorting-Algorithms
-Final Project for Algorithm Design and Analysis Course<br />
+Final Project for Algorithm Design and Analysis Course<br /><br />
 Team Member:<br />
 Jocelin Wilson      - 2501963330<br />
 Nicholas Valerianus - 2502055596<br />
